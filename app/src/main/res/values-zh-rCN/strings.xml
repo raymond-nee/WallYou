@@ -24,6 +24,11 @@
     <string name="both">桌面和锁屏</string>
     <string name="home">仅桌面</string>
     <string name="lockscreen">仅锁屏</string>
+    
+    <!-- Image filters -->
+    <string name="blur">模糊</string>
+    <string name="grayscale">灰度</string>
+    <string name="reset">重置</string>
 
     <!-- Preference categories -->
     <string name="general">常规</string>
